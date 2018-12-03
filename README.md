@@ -37,12 +37,9 @@
 
 
 
-    1.使用 HTML5 + CSS 完成RWD頁面架構和布局<br/><br/>
-
+     1.使用 HTML5 + CSS 完成RWD頁面架構和布局<br/><br/>
      2.使用 jQuery插件 (mousewheel) 製作網頁輪播特效<br/><br/>
-     
      3.使用 Jquery / CSS3 製作網頁動態效果<br/><br/>
-
      4.串接第三方 API（Google Map API）
 
 
@@ -54,13 +51,9 @@
 
  
      1.使用原生 Javascript 語法，進行 DOM 的操作，並撰寫動畫<br/><br/>
-
      2.後台使用 PHP 與 MySQL 語法對資料庫進行新增、修改、刪除<br/><br/>
-
      3.撈取JSON資料並顯示在網頁上<br/><br/>
-
      4.利用 AJAX 進行資料傳輸<br/><br/>
-     
      5.串接第三方 API（Google Chart API）<br/><br/>
 
 
