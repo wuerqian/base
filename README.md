@@ -40,9 +40,8 @@
     1.使用 HTML5 + CSS 完成RWD頁面架構和布局<br/><br/>
 
      2.使用 jQuery插件 (mousewheel) 製作網頁輪播特效<br/><br/>
+     
      3.使用 Jquery / CSS3 製作網頁動態效果<br/><br/>
-
-
 
      4.串接第三方 API（Google Map API）
 
@@ -61,6 +60,7 @@
      3.撈取JSON資料並顯示在網頁上<br/><br/>
 
      4.利用 AJAX 進行資料傳輸<br/><br/>
+     
      5.串接第三方 API（Google Chart API）<br/><br/>
 
 
